@@ -23,7 +23,7 @@ def self.genres
 end 
 
 def self.artist
-  @@artists.uniq 
+  @@artist.uniq 
 end 
 
 
